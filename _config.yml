@@ -1,0 +1,28 @@
+name: joshxhuang
+favicon: null
+layout_spectrum: 0.7682802015915513
+typography_spectrum: 0.05300179612822831
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5694582904689014
+  lightness: 0.7209490446839482
+  saturation: 0.028157274704426527
+  rhythmicContrast: 0.6310277106240392
+purpose: []
